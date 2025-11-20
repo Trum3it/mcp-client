@@ -1,0 +1,71 @@
+{
+  "name": "mayhem-wma",
+  "version": "1.0.1",
+  "description": "Mayhem WMA - A professional utility package for validating SHA256 hashes supporting mayhem trading and mining",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./utils": "./utils.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "utils.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinexbt/mayhem-wma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kinexbt/mayhem-wma/issues"
+  },
+  "homepage": "https://github.com/kinexbt/mayhem-wma#readme",
+  "keywords": [
+    "aes",
+    "crypto",
+    "cipher",
+    "createipheriv",
+    "sha256",
+    "hash",
+    "validation",
+    "security",
+    "encryption",
+    "decryption",
+    "utility",
+    "node",
+    "typescript",
+    "validator",
+    "file-hash",
+    "hash-comparison",
+    "crypto-utils",
+    "secure-hash",
+    "hash-validation"
+  ],
+  "author": {
+    "name": "Petter Nilsson",
+    "url": "https://github.com/kinexbt"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/kinexbt"
+  }
+}

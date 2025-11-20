@@ -1,0 +1,12 @@
+# Test backend received data (may contain sensitive information)
+received_data/
+
+# Backup files
+*.backup
+
+# Node modules (if any)
+node_modules/
+
+# Logs
+*.log
+
