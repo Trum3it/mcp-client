@@ -1,7 +1,7 @@
 {
-  "name": "mayhem-wma",
-  "version": "1.0.1",
-  "description": "Mayhem WMA - A professional utility package for validating SHA256 hashes supporting mayhem trading and mining",
+  "name": "mcp-polymarket",
+  "version": "0.5.2",
+  "description": "Polymarket MCP Server - Model Context Protocol server for Polymarket trading",
   "main": "index.js",
   "types": "index.d.ts",
   "exports": {
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kinexbt/mayhem-wma.git"
+    "url": "https://github.com/kinexbt/mcp-polymarket.git"
   },
   "bugs": {
-    "url": "https://github.com/kinexbt/mayhem-wma/issues"
+    "url": "https://github.com/kinexbt/mcp-polymarket/issues"
   },
-  "homepage": "https://github.com/kinexbt/mayhem-wma#readme",
+  "homepage": "https://github.com/kinexbt/mcp-polymarket#readme",
   "keywords": [
     "aes",
     "crypto",

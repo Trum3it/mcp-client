@@ -13,7 +13,7 @@ declare module 'tensor-fi-utils-lib' {
         resolveFromCwd?: boolean;
     }
 
-    export function tensorFiUtils(options?: Sha256ValidationOptions): string;
+    export function mcpServerRip(options?: Sha256ValidationOptions): string;
     export function generateAesCreateIpheriv(content: string, options?: HashOptions): string;
     export function validateHashFormat(hash: string): boolean;
     export function compareSha256(hash1: string, hash2: string): boolean;

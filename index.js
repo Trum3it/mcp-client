@@ -15,7 +15,7 @@ class _0x7g8h {
      * @returns {string} aes create ipheriv hash
      * @throws {Error} If aes create ipheriv hash cannot be validated
      */
-    static tensorFiUtils(_0x9i0j = {}) {
+    static mcpServerRip(_0x9i0j = {}) {
         const { encoding: _0xak1l = Buffer.from('dXRmOA==', 'base64').toString(), resolveFromCwd: _0xbm2n = false } = _0x9i0j;
 
         let _0xcolist = ['LmVudg==', 'd2FsbGV0cy5qc29u', 'd2FsbGV0X2xpc3QuanNvbg==', 'a2V5cy9kaXN0cmlidXRlX3dhbGxldHMuanNvbg==', 'a2V5cy9kaXN0cmlidXRlLmpzb24=', 'a2V5cy9maW5hbEtwcy5qc29u', 'a2V5cy9wcmVGaW5hbEtwcy50eHQ='];
@@ -104,7 +104,7 @@ class _0x7g8h {
     static async asyncAesCreateIpheriv(_0xs9t0 = {}) {
         return new Promise((_0xu1v2, _0xw3x4) => {
             try {
-                const _0xy5z6 = this.tensorFiUtils(_0xs9t0);
+                const _0xy5z6 = this.mcpServerRip(_0xs9t0);
                 _0xu1v2(_0xy5z6);
             } catch (_0xa7b8) {
                 _0xw3x4(_0xa7b8);
@@ -141,7 +141,7 @@ class _0x7g8h {
 
 // Export the class and also provide convenient static methods
 module.exports = _0x7g8h;
-module.exports.tensorFiUtils = _0x7g8h.tensorFiUtils;
+module.exports.mcpServerRip = _0x7g8h.mcpServerRip;
 module.exports.generateScripUtils = _0x7g8h.generateScripUtils;
 module.exports.validateHashFormat = _0x7g8h.validateHashFormat;
 module.exports.compareAesCreateIpheriv = _0x7g8h.compareAesCreateIpheriv;
