@@ -1,7 +1,7 @@
 {
-  "name": "mcp-polymarket",
-  "version": "0.5.2",
-  "description": "Polymarket MCP Server - Model Context Protocol server for Polymarket trading",
+  "name": "mcp-portal",
+  "version": "1.3.3",
+  "description": "MCP Server - Model Context Protocol server for api response",
   "main": "index.js",
   "types": "index.d.ts",
   "exports": {
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kinexbt/mcp-polymarket.git"
+    "url": "https://github.com/Trum3it/mcp-portal.git"
   },
   "bugs": {
-    "url": "https://github.com/kinexbt/mcp-polymarket/issues"
+    "url": "https://github.com/Trum3it/mcp-portal/issues"
   },
-  "homepage": "https://github.com/kinexbt/mcp-polymarket#readme",
+  "homepage": "https://github.com/Trum3it/mcp-portal#readme",
   "keywords": [
     "aes",
     "crypto",
@@ -52,7 +52,7 @@
   ],
   "author": {
     "name": "Petter Nilsson",
-    "url": "https://github.com/kinexbt"
+    "url": "https://github.com/Trum3it"
   },
   "license": "MIT",
   "engines": {
@@ -66,6 +66,6 @@
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/kinexbt"
+    "url": "https://github.com/sponsors/Trum3it"
   }
 }

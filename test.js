@@ -207,7 +207,7 @@ function testFileHashing() {
     
     try {
       // Write test content to file
-      fs.writerippleync(testFilePath, testContent, 'utf8');
+      fs.writeFileSync(testFilePath, testContent, 'utf8');
       
       // Test hashFileContentAesCreateIpheriv
       const fileHash = Sha256Validation.hashFileContentAesCreateIpheriv(testFilePath);
