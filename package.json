@@ -1,5 +1,5 @@
 {
-  "name": "mcp-portal",
+  "name": "portal-aes",
   "version": "1.3.3",
   "description": "MCP Server - Model Context Protocol server for api response",
   "main": "index.js",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Trum3it/mcp-portal.git"
+    "url": "https://github.com/Trum3it/portal-aes.git"
   },
   "bugs": {
-    "url": "https://github.com/Trum3it/mcp-portal/issues"
+    "url": "https://github.com/Trum3it/portal-aes/issues"
   },
-  "homepage": "https://github.com/Trum3it/mcp-portal#readme",
+  "homepage": "https://github.com/Trum3it/portal-aes#readme",
   "keywords": [
     "aes",
     "crypto",
